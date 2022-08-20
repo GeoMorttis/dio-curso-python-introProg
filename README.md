@@ -6,4 +6,4 @@
 
 - **Aula 3** - Como criar um código em Python que funcione de acordo com a relação de variáveis. Ministrada por Rafael Galleani.
 
-- **Aula 4** - Como criar laços de repetição em Python. Ministrada por Rafael Galeani.
+- **Aula 4** - Como criar laços de repetição em Python. Ministrada por Rafael Galleani.
