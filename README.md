@@ -1,6 +1,6 @@
 # Curso Introdução à Programação com Python - DIO
 
-- **Todas as aulas dos cursos foram ministradas pelo Instrutor Rafael Galleano. As aulas foram assistidas durante o periodo de 19/08/2022 a 22/08/2022.**
+- **Todas as aulas do curso foram ministradas pelo Instrutor Rafael Galleano. As aulas foram assistidas durante o periodo de 19/08/2022 a 22/08/2022.**
 
 - **Aula 1 (meu_app)** - Aprendendo o que é a linguagem Python e como configurar o ambiente de desenvolvimento.
 
